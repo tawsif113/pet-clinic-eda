@@ -4,10 +4,34 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/api-gateway" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/services/api-gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/appointment" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/services/appointment" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/services/config-server" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/services/config-server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/customer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/services/customer" />
           </set>
         </option>
       </GradleProjectSettings>
