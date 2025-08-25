@@ -5,6 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/services/api-gateway" />
+        <option name="gradleJvm" value="corretto-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/services/api-gateway" />
@@ -13,6 +14,7 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/services/appointment" />
+        <option name="gradleJvm" value="corretto-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/services/appointment" />
@@ -21,6 +23,7 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/services/config-server" />
+        <option name="gradleJvm" value="corretto-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/services/config-server" />
@@ -29,6 +32,7 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/services/customer" />
+        <option name="gradleJvm" value="corretto-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/services/customer" />
@@ -36,15 +40,8 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/services/customer-command" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/services/customer-command" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/services/discovery" />
+        <option name="gradleJvm" value="corretto-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/services/discovery" />
