@@ -5,7 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/services/api-gateway" />
-        <option name="gradleJvm" value="corretto-21" />
+        <option name="gradleJvm" value="openjdk-23" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/services/api-gateway" />
@@ -36,6 +36,24 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/services/customer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/customer-command" />
+        <option name="gradleJvm" value="openjdk-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/services/customer-command" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/customer-query" />
+        <option name="gradleJvm" value="openjdk-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/services/customer-query" />
           </set>
         </option>
       </GradleProjectSettings>

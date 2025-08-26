@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/customer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.edapoc.customer-command.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.edapoc.customer-command.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-command.main.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-command.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-command.test.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-command.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-query.main.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-query.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer-query.test.iml" filepath="$PROJECT_DIR$/.idea/modules/customer-query.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pet-clinic-eda.iml" filepath="$PROJECT_DIR$/.idea/pet-clinic-eda.iml" />
     </modules>
   </component>
